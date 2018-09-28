@@ -1,0 +1,10 @@
+C:\Users\jchantry\source\repos\Chantry_Jason - Math Quiz\Chantry_Jason - Math Quiz\bin\Debug\Chantry_Jason - Math Quiz.exe.config
+C:\Users\jchantry\source\repos\Chantry_Jason - Math Quiz\Chantry_Jason - Math Quiz\bin\Debug\Chantry_Jason - Math Quiz.exe
+C:\Users\jchantry\source\repos\Chantry_Jason - Math Quiz\Chantry_Jason - Math Quiz\bin\Debug\Chantry_Jason - Math Quiz.pdb
+C:\Users\jchantry\source\repos\Chantry_Jason - Math Quiz\Chantry_Jason - Math Quiz\obj\Debug\Chantry_Jason - Math Quiz.csprojAssemblyReference.cache
+C:\Users\jchantry\source\repos\Chantry_Jason - Math Quiz\Chantry_Jason - Math Quiz\obj\Debug\Chantry_Jason___Math_Quiz.Form1.resources
+C:\Users\jchantry\source\repos\Chantry_Jason - Math Quiz\Chantry_Jason - Math Quiz\obj\Debug\Chantry_Jason___Math_Quiz.Properties.Resources.resources
+C:\Users\jchantry\source\repos\Chantry_Jason - Math Quiz\Chantry_Jason - Math Quiz\obj\Debug\Chantry_Jason - Math Quiz.csproj.GenerateResource.cache
+C:\Users\jchantry\source\repos\Chantry_Jason - Math Quiz\Chantry_Jason - Math Quiz\obj\Debug\Chantry_Jason - Math Quiz.csproj.CoreCompileInputs.cache
+C:\Users\jchantry\source\repos\Chantry_Jason - Math Quiz\Chantry_Jason - Math Quiz\obj\Debug\Chantry_Jason - Math Quiz.exe
+C:\Users\jchantry\source\repos\Chantry_Jason - Math Quiz\Chantry_Jason - Math Quiz\obj\Debug\Chantry_Jason - Math Quiz.pdb
