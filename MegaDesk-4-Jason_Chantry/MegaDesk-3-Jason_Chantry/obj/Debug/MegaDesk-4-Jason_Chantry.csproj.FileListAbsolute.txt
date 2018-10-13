@@ -1,0 +1,14 @@
+C:\Users\jchantry\source\repos\MegaDesk-4-Jason_Chantry\MegaDesk-3-Jason_Chantry\bin\Debug\MegaDesk-3-Jason_Chantry.exe.config
+C:\Users\jchantry\source\repos\MegaDesk-4-Jason_Chantry\MegaDesk-3-Jason_Chantry\bin\Debug\MegaDesk-3-Jason_Chantry.exe
+C:\Users\jchantry\source\repos\MegaDesk-4-Jason_Chantry\MegaDesk-3-Jason_Chantry\bin\Debug\MegaDesk-3-Jason_Chantry.pdb
+C:\Users\jchantry\source\repos\MegaDesk-4-Jason_Chantry\MegaDesk-3-Jason_Chantry\obj\Debug\MegaDesk-4-Jason_Chantry.csprojAssemblyReference.cache
+C:\Users\jchantry\source\repos\MegaDesk-4-Jason_Chantry\MegaDesk-3-Jason_Chantry\obj\Debug\MegaDesk_3_Jason_Chantry.AddQuote.resources
+C:\Users\jchantry\source\repos\MegaDesk-4-Jason_Chantry\MegaDesk-3-Jason_Chantry\obj\Debug\MegaDesk_3_Jason_Chantry.DisplayQuote.resources
+C:\Users\jchantry\source\repos\MegaDesk-4-Jason_Chantry\MegaDesk-3-Jason_Chantry\obj\Debug\MegaDesk_3_Jason_Chantry.SearchQuotes.resources
+C:\Users\jchantry\source\repos\MegaDesk-4-Jason_Chantry\MegaDesk-3-Jason_Chantry\obj\Debug\MegaDesk_3_Jason_Chantry.MainMenu.resources
+C:\Users\jchantry\source\repos\MegaDesk-4-Jason_Chantry\MegaDesk-3-Jason_Chantry\obj\Debug\MegaDesk_3_Jason_Chantry.Properties.Resources.resources
+C:\Users\jchantry\source\repos\MegaDesk-4-Jason_Chantry\MegaDesk-3-Jason_Chantry\obj\Debug\MegaDesk_3_Jason_Chantry.ViewAllQuotes.resources
+C:\Users\jchantry\source\repos\MegaDesk-4-Jason_Chantry\MegaDesk-3-Jason_Chantry\obj\Debug\MegaDesk-4-Jason_Chantry.csproj.GenerateResource.cache
+C:\Users\jchantry\source\repos\MegaDesk-4-Jason_Chantry\MegaDesk-3-Jason_Chantry\obj\Debug\MegaDesk-4-Jason_Chantry.csproj.CoreCompileInputs.cache
+C:\Users\jchantry\source\repos\MegaDesk-4-Jason_Chantry\MegaDesk-3-Jason_Chantry\obj\Debug\MegaDesk-3-Jason_Chantry.exe
+C:\Users\jchantry\source\repos\MegaDesk-4-Jason_Chantry\MegaDesk-3-Jason_Chantry\obj\Debug\MegaDesk-3-Jason_Chantry.pdb
