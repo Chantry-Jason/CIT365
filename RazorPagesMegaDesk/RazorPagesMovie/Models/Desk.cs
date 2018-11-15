@@ -38,7 +38,7 @@ namespace MegaDesk.Models
         [DataType(DataType.Currency)]
         [Column(TypeName = "decimal(18, 2)")]
         [Required]
-        public double price { get; set; }
+        public decimal price { get; set; }
         [Display(Name = "Surface Material")]
         [Required]
         public string surfaceMat { get; set; }

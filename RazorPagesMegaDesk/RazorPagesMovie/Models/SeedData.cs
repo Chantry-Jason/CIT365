@@ -22,10 +22,10 @@ namespace MegaDesk.Models
                     new Desk
                     {
                         name = "John Doe",
-                        width = 30,
-                        depth = 30,
+                        width = 30.00,
+                        depth = 30.00,
                         numDrawers = 2,
-                        price = 1025,
+                        price = 1025.00M,
                         surfaceMat = "Rosewood",
                         rushOrd = "7 Days",
                         DateAdded = DateTime.Parse("2018-11-5")

@@ -18,7 +18,7 @@ namespace MegaDesk.Migrations
                     width = table.Column<double>(nullable: true),
                     depth = table.Column<double>(nullable: true),
                     numDrawers = table.Column<int>(nullable: true),
-                    price = table.Column<double>(nullable: true),
+                    price = table.Column<decimal>(nullable: true),
                     surfaceMat = table.Column<string>(nullable: true),
                     rushOrd = table.Column<string>(nullable: true),
                     DateAdded = table.Column<DateTime>(nullable: false)

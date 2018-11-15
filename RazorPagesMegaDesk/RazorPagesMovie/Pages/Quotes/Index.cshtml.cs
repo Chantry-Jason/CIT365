@@ -64,23 +64,23 @@ namespace MegaDesk.Pages.Quotes
 
             if (!String.IsNullOrEmpty(searchString))
             {
-                QuoteQuery = QuoteQuery.Where(s => s.Quote.Contains(searchString));
+                QuoteQuery = QuoteQuery.Where(s => s.name.Contains(searchString));
             }
-            if (!String.IsNullOrEmpty(keySearchString))
-            {
-                QuoteQuery = QuoteQuery.Where(x => x.Note.Contains(keySearchString));
-            }
+            //if (!String.IsNullOrEmpty(keySearchString))
+            //{
+            //    QuoteQuery = QuoteQuery.Where(x => x.Note.Contains(keySearchString));
+            //}
             switch (sortOrder)
             {
                 case "Quote_desc":
-                    QuoteQuery = QuoteQuery.OrderByDescending(s => s.Quote);
+                    QuoteQuery = QuoteQuery.OrderByDescending(s => s.name);
                     break;
                 case "Date":
                     QuoteQuery = QuoteQuery.OrderBy(s => s.DateAdded);
                     break;
 
                 default:
-                    QuoteQuery = QuoteQuery.OrderBy(s => s.Quote);
+                    QuoteQuery = QuoteQuery.OrderBy(s => s.name);
                     break;
             }
 
