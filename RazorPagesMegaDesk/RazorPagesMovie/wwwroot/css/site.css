@@ -3,8 +3,52 @@ for details on configuring this project to bundle and minify static web assets. 
 body {
     padding-top: 50px;
     padding-bottom: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: black;
+    background-image: url("../images/370799.jpg");
+    background-size: 100%;
+    background-position: top;
+    margin-bottom: 50px;
+
+}
+main {
+
+    margin-top: 20px;
+    margin-bottom: 150px;
+}
+.buttonLinks {
+
+    padding-right: 20px;
+    margin-top: 40px;
+}
+.buttonLinks button {
+    background-color: lightyellow;
+    color: black;
+    width: 200px;
+    height: 50px;
+    
 }
 
+.rightImage img {
+    
+    position: absolute;
+    right: 100px;
+    top: 100px;
+    width: 400px;
+    height: 300px;
+
+}
+footer {
+    position: fixed;
+    bottom: 0px;
+    width: 90%;
+    color: white;
+}
+.quoteTable {
+   
+    background-color: rgba(255, 255, 255, 0.50);
+}
 /* Wrapping element */
 /* Set some basic padding to keep content from hitting the edges */
 .body-content {
