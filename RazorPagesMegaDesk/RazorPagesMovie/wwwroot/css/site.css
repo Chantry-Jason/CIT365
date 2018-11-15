@@ -55,7 +55,16 @@ footer {
     padding-left: 15px;
     padding-right: 15px;
 }
-
+#deskDimensionImg {
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    top: 130px;
+    right: 15%;
+}
+.form-group {
+    margin-left: 15px;
+}
 /* Carousel */
 .carousel-caption p {
     font-size: 20px;
@@ -79,9 +88,11 @@ footer {
     width: 100%;
 }
 /* Hide/rearrange for smaller screens */
-@media screen and (max-width: 767px) {
-    /* Hide captions */
-    .carousel-caption {
-        display: none;
+@media screen and (max-width: 992px) {
+    /* Hide desk image */
+
+    #deskDimensionImg {
+        height: 0px;
+        width: 0px;
     }
 }

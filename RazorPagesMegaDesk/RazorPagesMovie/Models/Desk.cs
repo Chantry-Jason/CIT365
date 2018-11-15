@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -7,16 +8,6 @@ namespace MegaDesk.Models
     public class Desk
     {
 
-        //enum that holds the Surface material options.
-        public enum SurfaceMaterial 
-        {
-
-            Laminate = 1,
-            Oak = 2,
-            Rosewood = 3,
-            Veneer = 4,
-            Pine = 5
-        };
         public int ID { get; set; }
         [Display(Name = "Customer Name")]
         [StringLength(120, MinimumLength = 3)]
@@ -51,25 +42,36 @@ namespace MegaDesk.Models
         //public DateTime ReleaseDate { get; set; }
         public DateTime DateAdded { get; set; }
 
-       
+
+    ////enum that holds the Surface material options.
+    //public enum SurfaceMaterial
+    //{
+
+    //    Laminate = 1,
+    //    Oak = 2,
+    //    Rosewood = 3,
+    //    Veneer = 4,
+    //    Pine = 5
+    //};
 
 
 
 
-        //[RegularExpression(@"^[A-Z]+[a-zA-Z""'\s-]*$")]
-        //[Required]
-        //[StringLength(30)]
-        //public string Genre { get; set; }
 
-        
-        //[Range(1, 100)]
-        //[DataType(DataType.Currency)]
-        //[Column(TypeName = "decimal(18, 2)")]
-        //public decimal Price { get; set; }
-        //[RegularExpression(@"^[A-Z]+[a-zA-Z0-9""'\s-]*$")] //must start with one or more capital letters and follow with zero or more letters, 
-        //                                                    //numbers, single or double quotes, whitespace characters, or dashes
-        //[StringLength(5)]
-        //[Required]
-        //public string Rating { get; set; }
-    }
+    //[RegularExpression(@"^[A-Z]+[a-zA-Z""'\s-]*$")]
+    //[Required]
+    //[StringLength(30)]
+    //public string Genre { get; set; }
+
+
+    //[Range(1, 100)]
+    //[DataType(DataType.Currency)]
+    //[Column(TypeName = "decimal(18, 2)")]
+    //public decimal Price { get; set; }
+    //[RegularExpression(@"^[A-Z]+[a-zA-Z0-9""'\s-]*$")] //must start with one or more capital letters and follow with zero or more letters, 
+    //                                                    //numbers, single or double quotes, whitespace characters, or dashes
+    //[StringLength(5)]
+    //[Required]
+    //public string Rating { get; set; }
+}
 }

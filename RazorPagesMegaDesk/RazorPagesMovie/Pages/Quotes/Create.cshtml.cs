@@ -38,5 +38,6 @@ namespace MegaDesk.Pages.Quotes
 
             return RedirectToPage("./Index");
         }
+
     }
 }
