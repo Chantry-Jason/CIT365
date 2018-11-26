@@ -1,0 +1,6 @@
+C:\Users\jchantry\source\repos\CIT365-Group1\CIT365\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.csprojAssemblyReference.cache
+C:\Users\jchantry\source\repos\CIT365-Group1\CIT365\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.csproj.CoreCompileInputs.cache
+C:\Users\jchantry\source\repos\CIT365-Group1\CIT365\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorAssemblyInfo.cache
+C:\Users\jchantry\source\repos\CIT365-Group1\CIT365\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorAssemblyInfo.cs
+C:\Users\jchantry\source\repos\CIT365-Group1\CIT365\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.AssemblyInfoInputs.cache
+C:\Users\jchantry\source\repos\CIT365-Group1\CIT365\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.AssemblyInfo.cs

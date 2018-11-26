@@ -12227,11 +12227,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jchantry\\source\\repos\\Scripture Journal - Copy\\RazorPagesMovie\\MegaDesk.csproj",
+      "projectUniqueName": "C:\\Users\\jchantry\\source\\repos\\CIT365-Group1\\CIT365\\RazorPagesMegaDesk\\RazorPagesMovie\\MegaDesk.csproj",
       "projectName": "MegaDesk",
-      "projectPath": "C:\\Users\\jchantry\\source\\repos\\Scripture Journal - Copy\\RazorPagesMovie\\MegaDesk.csproj",
+      "projectPath": "C:\\Users\\jchantry\\source\\repos\\CIT365-Group1\\CIT365\\RazorPagesMegaDesk\\RazorPagesMovie\\MegaDesk.csproj",
       "packagesPath": "C:\\Users\\jchantry\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jchantry\\source\\repos\\Scripture Journal - Copy\\RazorPagesMovie\\obj\\",
+      "outputPath": "C:\\Users\\jchantry\\source\\repos\\CIT365-Group1\\CIT365\\RazorPagesMegaDesk\\RazorPagesMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
